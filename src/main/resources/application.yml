@@ -7,7 +7,7 @@ spring:
     port: 587
     protocol: smtp
     username: apikey
-    password: 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
+    password: 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
     properties:
       mail.smtp.auth: true
       mail.smtp.starttls.enable: true
